@@ -1,0 +1,38 @@
+h1{
+	font-family: Calibri, sans-serif;
+	color: rgb(255,0,0);
+	background-color: black;
+}
+h2{
+	font-family: Transitional, Serif;
+	color: maroon;
+}
+p{
+	font-family: Comic, sans-serif;
+	color: white;
+	
+}
+p2{
+	font-family: Comic, sans-serif;
+	color: white;
+	font-size: 1.5em;
+	
+}
+body{
+	background-color: black;
+}
+.salt{
+	color: pink;
+}
+.coco{
+	color: green;
+}
+.ollie{
+	color: gold;
+}
+a:link{
+	color:red;
+}
+a:visited{
+	color:violet;
+}
